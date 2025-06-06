@@ -1,0 +1,20 @@
+x = int(input())
+present = 0
+count =0
+while present != x:
+    if x-present>=5:
+        present +=5
+        count+=1
+    elif x-present>=4 and x-present<5:
+        present +=4
+        count +=1
+    elif x-present>=3 and x-present<4:
+        present +=3
+        count +=1
+    elif x-present>=2 and x-present<3:
+        present +=2
+        count +=1
+    elif x-present>=1 and x-present<2:
+        present +=1
+        count +=1
+print(count)
