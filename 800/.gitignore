@@ -1,0 +1,19 @@
+# 1. Ignore EVERYTHING by default
+*
+
+# 2. Allow directories (so git can find files inside folders)
+!*/
+
+# 3. Allow specific source files and configs
+!*.cpp
+!*.c
+!*.h
+!*.hpp
+!README.md
+!.gitignore
+
+# 4. Explicitly ignore specific binary types (just in case)
+*.a
+*.o
+*.exe
+*.out
