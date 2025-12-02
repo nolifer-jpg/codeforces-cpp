@@ -20,7 +20,8 @@ The repository is divided into folders based on the problem rating. While the pr
 To compile and run a C++ solution:
 g++ filename.cpp -o output
 ./output
-Running Python Solutions
+
+### Running Python Solutions
 To run a Python solution:
 python filename.py
 
