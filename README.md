@@ -13,6 +13,7 @@ The repository is divided into folders based on the problem rating. While the pr
 | **`900/`** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | C++ solutions for 900-rated problems |
 | **`1000/`** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | C++ solutions for 1000-rated problems |
 | **`1100/`** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | C++ solutions for 1100-rated problems |
+| **`1200/`** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | C++ solutions for 1200-rated problems |
 
 ## 🚀 Usage
 
